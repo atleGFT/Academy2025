@@ -1,4 +1,4 @@
 ## Leggiamo
-Sono un readme
+Sono un reàdme
 
-Testuali parole
+Testuali parolé
