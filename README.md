@@ -1,2 +1,2 @@
-## Leggimi
+## Leggiamo
 Sono un readme
